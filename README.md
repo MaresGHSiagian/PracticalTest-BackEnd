@@ -1,4 +1,35 @@
-# PracticalTest-BackEnd
+## Logical Test
+# Convert Test
+---
+Request Body
+
+```json
+[http://localhost:8080/api/dashboard/summary](http://localhost:8080/api/convert-text?input=italem%20irad%20irigayaj%0Aiadab%20itsap%20ulalreb%0Analub%20kusutret%20gnalali)
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## PracticalTest-BackEnd
 
 
 ![image](https://github.com/user-attachments/assets/03cc8e2c-ff7b-4c6c-8733-fb9b4a16d25d)
