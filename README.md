@@ -14,7 +14,7 @@ badai pasti berlalu
 bulan tertusuk ilalang
 ```
 ---
-###Fizz-Buzz
+### Fizz-Buzz
 ---
 Request Body
 
@@ -548,5 +548,5 @@ Response Body
 
 
 ---
-Melakukan Konsksi dengan API yang sudah disediakan dan melihat respon API 
+
 
