@@ -128,28 +128,65 @@ Response Body
 ]
 ```
 ---
+### FIbonancci
+---
+Request Body
 
+```json
+http://localhost:8080/api/fibonacci?count=10
+```
+Response Body
+![image](https://github.com/user-attachments/assets/a544a814-5fdd-4fa7-8b3a-3ed8b5a45baf)
+```json
+[
+    0,
+    1,
+    1,
+    2,
+    3,
+    5,
+    8,
+    13,
+    21,
+    34
+]
+```
+---
 
+### Stock Profit
+---
+Request Body
 
+```json
+http://localhost:8080/api/stock-profit?prices=10,9,6,5,15
+```
+Response Body
+![image](https://github.com/user-attachments/assets/6b342c50-9a26-4a7c-91d2-316079eac170)
 
+```json
+[
+  10
+]
+```
+---
 
+### Count-Cumbers
 
+---
+Request Body
 
+```json
+http://localhost:8080/api/count-numbers?list=2,h,6,u,y,t,7,j,y,h,8
+```
+Response Body
+![image](https://github.com/user-attachments/assets/516f48a0-6cda-405f-bfce-d3f3567e71d6)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+```json
+[
+  10
+]
+```
+---
 
 
 ## PracticalTest-BackEnd
@@ -158,11 +195,11 @@ Response Body
 ![image](https://github.com/user-attachments/assets/03cc8e2c-ff7b-4c6c-8733-fb9b4a16d25d)
 
 
-API Get: Transaksi Pemesanan Ruangan
+### API Get: Transaksi Pemesanan Ruangan
 Endpoint: GET /api/dummy-data/bookingList
 URL: https://66876cc30bc7155dc017a662.mockapi.io/api/dummy-data/bookingList
 Deskripsi: Mengambil daftar transaksi pemesanan ruangan.
-2. API Get: Master Jenis Konsumsi
+### API Get: Master Jenis Konsumsi
 Endpoint: GET /api/dummy-data/masterJenisKonsumsi
 URL: https://6686cb5583c983911b03a7f3.mockapi.io/api/dummy-data/masterJenisKonsumsi
 
