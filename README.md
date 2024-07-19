@@ -4,7 +4,7 @@
 Request Body
 
 ```json
-[http://localhost:8080/api/dashboard/summary](http://localhost:8080/api/convert-text?input=italem%20irad%20irigayaj%0Aiadab%20itsap%20ulalreb%0Analub%20kusutret%20gnalali)
+http://localhost:8080/api/convert-text?input=italem%20irad%20irigayaj%0Aiadab%20itsap%20ulalreb%0Analub%20kusutret%20gnalali
 ```
 Response Body
 ![image](https://github.com/user-attachments/assets/64f36746-41b2-4b22-bcd2-ab9fe98b8bf0)
