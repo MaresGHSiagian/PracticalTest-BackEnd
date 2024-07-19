@@ -20,7 +20,10 @@ http://localhost:8080/api/dashboard/summary
 ```
 
 Response Body
-Product
+![image](https://github.com/user-attachments/assets/5dff4eae-6579-4103-bbe1-068c5f6833a5)
+
 
 ```json
+---
+Konsksi dengan API yang sudah disediakan.
 
